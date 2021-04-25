@@ -1,0 +1,16 @@
+<div class="container main-container">
+
+    <div class="row text-center">
+        <div class=" col-md-4" id="container">
+            <input class="input" matInput type="text" placeholder="Ex. Estudar angular." [(ngModel)]="taskName" />
+            <button class="button" mat-flat-button color="primary" (click)="addTask()">Addicionar</button>
+        </div>
+    </div>
+
+    <div class="row text-center">
+        <tasks class="col-md-4"></tasks>
+        <tasks-iniciadas class="col-md-4"></tasks-iniciadas>
+        <tasks-finalizadas class="col-md-4"></tasks-finalizadas>
+    </div>
+
+</div>

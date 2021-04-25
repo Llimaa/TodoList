@@ -1,0 +1,14 @@
+
+#container {
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 67%;
+    height: 2.4em;
+    border-radius: 5px;
+}
+
+.button {
+    margin-left: 1em;
+}
