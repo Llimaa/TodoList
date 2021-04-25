@@ -28,7 +28,7 @@
       "id": 5,
       "nome": "Levar cachorro no veterinário",
       "finalizado": false,
-      "iniciado": false
+      "iniciado": true
     },
     {
       "id": 6,
@@ -57,18 +57,24 @@
     {
       "id": 10,
       "nome": "sds",
-      "iniciado": true,
-      "finalizado": false
+      "iniciado": false,
+      "finalizado": true
     },
     {
       "id": 11,
       "nome": "sdsd",
       "iniciado": false,
-      "finalizado": true
+      "finalizado": false
     },
     {
       "id": 12,
       "nome": "ds",
+      "iniciado": false,
+      "finalizado": false
+    },
+    {
+      "id": 13,
+      "nome": "ddd",
       "iniciado": false,
       "finalizado": false
     }
